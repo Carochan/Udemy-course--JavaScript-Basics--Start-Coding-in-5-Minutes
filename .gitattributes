@@ -47,8 +47,17 @@ console.log(testString[4]);
 console.log(testString[1], testString[testString.length -1]);
 console.log(testString[0] + testString[2] + testString[testString.length -1]);
 
+//48.03 Numbers exercises
 
+let addition = 9 + 7;
+let substraction = 7 -4;
+let multiplication = 5 * 5;
+let division = 27 / 9;
+let decimalThing = .5 * 15;
+let exponentThing = 4 ** 3;
+let reminder = 9 % 5;
 
+console.log(addition, substraction, multiplication, division, decimalThing, exponentThing, reminder);
 
 
 

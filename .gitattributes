@@ -59,6 +59,21 @@ let reminder = 9 % 5;
 
 console.log(addition, substraction, multiplication, division, decimalThing, exponentThing, reminder);
 
+// 55.03 order of operators
+
+const problem1 = 4 + 3 * 7 - 2 / 4;
+const problem2 = (4 + 3) * (7 - 2) / 4;
+const problem3 = (4 + 3) * (7 - 2) / 4 ** 2;
+
+console.log(problem1);
+console.log(problem2);
+console.log(problem3);
+
+
+
+
+
+
 
 
 

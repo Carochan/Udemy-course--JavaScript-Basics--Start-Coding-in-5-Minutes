@@ -65,3 +65,34 @@ const problem3 = (4 + 3) * (7 - 2) / 4 ** 2;
 console.log(problem1);
 console.log(problem2);
 console.log(problem3);
+
+
+//55.06 length string menus 5
+
+//1st imput "abcd"
+//2nd imput "?????????"
+
+var firstImput = "abcd";
+var secondImput = "?????????";
+
+console.log(firstImput.length - 5);
+console.log(secondImput.length -5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

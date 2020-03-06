@@ -70,7 +70,6 @@ console.log(problem3);
 //55.06 length string menus 5
 
 //1st imput "abcd"
-//2nd imput "?????????"
 
 var firstImput = "abcd";
 var secondImput = "?????????";
@@ -78,15 +77,13 @@ var secondImput = "?????????";
 console.log(firstImput.length - 5);
 console.log(secondImput.length -5);
 
-//61.09 squared length index
+//89.04 even or odd
 
-//square the length on the verySorthString and find the character in the veryLongString
+var n = 5;
 
-var veryLongString = "jowiejjrhñalknvniurghpfañnkjvbirghpqinb";
-var veryShortString = ">7chars";
+if(n % 2 === 0) { console.log("it is even");}
 
-var squared = (verySorthString.length + verySorthString.length);
-console.log(veryLongString[squared]);
+else {console.log("it is odd");}
 
 
 

@@ -78,10 +78,15 @@ var secondImput = "?????????";
 console.log(firstImput.length - 5);
 console.log(secondImput.length -5);
 
+//61.09 squared length index
 
+//square the length on the verySorthString and find the character in the veryLongString
 
+var veryLongString = "jowiejjrhñalknvniurghpfañnkjvbirghpqinb";
+var veryShortString = ">7chars";
 
-
+var squared = (verySorthString.length + verySorthString.length);
+console.log(veryLongString[squared]);
 
 
 
